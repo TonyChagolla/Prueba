@@ -1,0 +1,11 @@
+C:\Users\Tony Chagolla\source\repos\testdevbackjr\Prueba_2\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\Tony Chagolla\source\repos\testdevbackjr\Prueba_2\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\Tony Chagolla\source\repos\testdevbackjr\Prueba_2\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\Tony Chagolla\source\repos\testdevbackjr\Prueba_2\Prueba\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\Tony Chagolla\source\repos\testdevbackjr\Prueba_2\Prueba\Prueba\obj\Debug\Prueba.Main.resources
+C:\Users\Tony Chagolla\source\repos\testdevbackjr\Prueba_2\Prueba\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\Tony Chagolla\source\repos\testdevbackjr\Prueba_2\Prueba\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\Tony Chagolla\source\repos\testdevbackjr\Prueba_2\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\Tony Chagolla\source\repos\testdevbackjr\Prueba_2\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\Tony Chagolla\source\repos\testdevbackjr\Prueba_2\Prueba\Prueba\obj\Debug\Prueba.AgregarUsuario.resources
+C:\Users\Tony Chagolla\source\repos\testdevbackjr\Prueba_2\Prueba\Prueba\obj\Debug\Prueba.ModificaSueldo.resources
